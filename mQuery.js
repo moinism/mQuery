@@ -1,6 +1,6 @@
 /*
 	mQuery (Mini Query)
-	A lightweight library for the times when you don't want to use the heavey ones.
+	A lightweight DOM library for the times when you don't want to use the heavy ones.
 */
 
 window.$m = function(s) {

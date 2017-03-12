@@ -1,0 +1,31 @@
+{
+  "name": "mQuery",
+  "version": "0.1.0",
+  "description": "A lightweight DOM library for the times when you don't want to use the heavey ones.",
+  "main": "mQuery.js",
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moinism/mquery.git"
+  },
+  "keywords": [
+    "mini",
+    "mquery",
+    "dom"
+  ],
+  "author": "Moin Uddin <me@moin.im> (https://moin.im/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moinism/mquery/issues"
+  },
+  "homepage": "https://github.com/moinism/mquery",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-banner": "^0.1.3",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.1.0"
+  }
+}
