@@ -52,7 +52,8 @@ window.$m = function(s) {
 				});
 				return mQuery;
 			} else {
-				return _single().getAttribute(attr);
+				var single = _single();
+				return single.getAttribute(attr) || single[attr];
 			}
 		},
 		_data = function (attr, v) {
