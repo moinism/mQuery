@@ -120,6 +120,7 @@ window.$m = function(s) {
 		show: _show,
 		hide: _hide,
 		data: _data,
+		each: _each,
 		attr: _commonAttr,
 		hasClass: _hasClass,
 		addClass: _addClass,

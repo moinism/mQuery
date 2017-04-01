@@ -1,6 +1,6 @@
 {
   "name": "mQuery",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A lightweight DOM library for the times when you don't want to use the heavey ones.",
   "main": "mQuery.js",
   "dependencies": {},
